@@ -1,0 +1,4 @@
+#!/bin/sh                                                                       
+
+
+rm postBuild environment.yml apt.txt
