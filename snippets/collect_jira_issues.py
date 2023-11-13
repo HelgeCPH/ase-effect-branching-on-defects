@@ -3,7 +3,7 @@ import requests
 
 jira_api_base_url = "https://issues.apache.org/jira/"
 page_length = 500
-project = "airflow"
+project = "hadoop"
 proj_jira_id = project.upper()
 start_idx = 0
 url = (
