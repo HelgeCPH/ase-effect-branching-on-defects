@@ -2,7 +2,7 @@
 
 # What is this?
 
-This repository contains project scaffolding and code for the lecture on [_Global Software Engineering in Open Source and its Effect on Quality_](https://itu.dk/~ropf/presentations/ase_branching_vs_sw_quality/GSE_Branching_vs_Quality.html) on Monday Nov. 15, 2021 at IT University of Copenhagen in the course [Advanced Topics in Software Engineering](https://learnit.itu.dk/course/view.php?id=3020270).
+This repository contains project scaffolding and code for the lecture on [_Global Software Engineering in Open Source and its Effect on Quality_](https://itu.dk/~ropf/presentations/ase_branching_vs_sw_quality/GSE_Branching_vs_Quality.html) on Monday Nov. 13, 2023 at IT University of Copenhagen in the course [Advanced Topics in Software Engineering](https://learnit.itu.dk/course/view.php?id=3020270).
 
 
 ## Getting started
@@ -13,6 +13,14 @@ This repository contains project scaffolding and code for the lecture on [_Globa
 
 ## Groups
 
+  * [Apache accumulo](https://github.com/apache/accumulo)
+    - Group 1
+  * [Apache camel](https://github.com/apache/camel)
+    - Group 2
+  * [Apache ignite](https://github.com/apache/ignite)
+    - Group 3
+
+<!--
   * [Apache accumulo](https://github.com/apache/accumulo)
     - Group 1
     - Group 38
@@ -100,3 +108,4 @@ This repository contains project scaffolding and code for the lecture on [_Globa
     - Group 36
   * [Apache wicket](https://github.com/apache/wicket)
     - Group 37
+-->

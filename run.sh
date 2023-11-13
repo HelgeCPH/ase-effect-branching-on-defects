@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # TODO: Add more projects
-for PROJECT in airflow ignite camel  # kafka spark thrift arrow geode hbase beam
+for PROJECT in accumolo ignite camel  # beam stratos
 do
     python -m study.collect_jira_issues $PROJECT
     python -m study.collect_vcs_history https://github.com/apache/$PROJECT.git
